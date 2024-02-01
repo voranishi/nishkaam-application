@@ -107,7 +107,7 @@ class _LoginPageState extends State<LoginPage> {
                 });
               },
               style: ElevatedButton.styleFrom(
-                primary: Colors.blue,
+                primary: Colors.white,
                 shape: RoundedRectangleBorder(
                   borderRadius: BorderRadius.circular(20.0),
                 ),
